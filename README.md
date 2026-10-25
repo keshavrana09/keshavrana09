@@ -1,76 +1,124 @@
-# Hey, I'm Keshav Rana 👋
+# 👋 Hey, I'm Keshav Rana
 
-### 💻 Full-Stack Developer | AI & GenAI Enthusiast
+### Data Annotator @ Qualitas Global | Full-Stack Developer | AI & GenAI Enthusiast
 
-🎓 Computer Science Engineering student at **Central University of Jammu**
+🎓 **B.Tech in Computer Science and Engineering** — Central University of Jammu
 
-I enjoy building scalable web applications and intelligent AI-powered solutions. I'm interested in combining full-stack development, Large Language Models, and agentic workflows to solve real-world problems.
+💼 **Currently:** Data Annotator at Qualitas Global  
+📍 Pune, India
 
-- 🔭 Building full-stack applications and AI-powered automation workflows
-- 🤖 Exploring Generative AI, LLMs, and Agentic AI
-- 🌱 Improving my skills in software engineering and AI application development
-- 💬 Ask me about React, Node.js, MongoDB, Python, OpenAI APIs, and n8n
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/keshavrana09/)
+I'm a Computer Science and Engineering student and technology enthusiast passionate about building scalable web applications, intelligent AI-powered solutions, and automated workflows.
+
+My experience spans full-stack web development, AI-powered automation, data annotation, and working with modern AI tools. Through my internships and projects, I've explored how software engineering and artificial intelligence can solve real-world problems.
+
+I enjoy learning new technologies, building practical projects, and continuously improving my software development and AI engineering skills.
 
 ---
 
-### 🛠️ Tech Stack
+## 💼 Current Position
 
-**Languages**
+**Data Annotator — Qualitas Global**
 
+*October 2026 – Present*
+
+- Working in the data annotation domain.
+- Developing familiarity with data labeling and annotation workflows.
+- Applying attention to detail and consistency to annotation tasks.
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) in Computer Science and Engineering**
+
+Central University of Jammu, India
+
+## 🚀 Internship Experience
+
+### IIT Jammu — Full-Stack Development & Artificial Intelligence
+
+- Explored full-stack web development and AI-powered applications.
+- Worked on projects involving OpenAI APIs, Python, and AI-assisted search.
+- Gained practical exposure to automation workflows and emerging AI technologies.
+
+### Edunet Foundation — Internship
+
+- Gained practical exposure through internship-based technical learning and project work.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend & Backend**
-
+### Full-Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Database & Tools**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Artificial Intelligence & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+
+**Areas of Interest:** Generative AI, Large Language Models (LLMs), Agentic AI, Prompt Engineering, API Integration, AI Agents, Workflow Automation, and Data Annotation.
+
+### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**1. Skill Sync — Full-Stack Learning Platform**
+### 1. Skill Sync — MERN Stack Learning Platform
 
-A MERN-stack platform that connects people who want to learn skills with people who can teach them.
+A full-stack learning platform that connects people who want to learn skills with people who can teach them.
 
-- User profiles, skill matching, learning requests, and reviews
-- React.js, Node.js, Express.js, and MongoDB
+- User authentication and profiles.
+- Skill matching based on learning and teaching preferences.
+- Learning requests, communication, scheduling, and reviews.
+- Admin panel for user and platform management.
 
-**2. Student Performance Monitor — Workflow Automation**
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-An n8n-based workflow for processing student marks, identifying performance categories, generating reports, and sending notifications.
+### 2. Student Performance Monitor — n8n Automation
 
-- Google Sheets, n8n, CSV, Slack, and email automation
+An automated workflow that processes student marks, classifies performance, generates reports, and sends notifications.
 
-**3. Browser Search Bot — AI-Powered Search**
+- Retrieves student data from Google Sheets.
+- Processes marks using predefined thresholds.
+- Generates CSV reports and supports Slack and email notifications.
 
-A Python application that retrieves web search results and uses an OpenAI model to summarize relevant information through an interactive Gradio interface.
+**Tech Stack:** n8n, Google Sheets, Slack, Workflow Automation
 
-- Python, Serper API, OpenAI SDK, and Gradio
+### 3. Browser Search Bot — AI-Powered Search Assistant
 
-**4. Local AI Digest — Multi-Agent News System**
+An interactive application that retrieves web search results and uses an AI model to summarize relevant information.
 
-An AI project focused on gathering and summarizing news using a multi-agent workflow with CrewAI.
+- Fetches search results through the Serper API.
+- Summarizes findings using the OpenAI SDK.
+- Provides an interactive interface with Gradio.
+
+**Tech Stack:** Python, Serper API, OpenAI SDK, Gradio
+
+### 4. Local AI Digest — Multi-Agent News System
+
+An AI project focused on gathering and summarizing news using a multi-agent workflow.
+
+- Explores task delegation between AI agents.
+- Uses CrewAI to coordinate an automated news-digest workflow.
+
+**Tech Stack:** Python, CrewAI, Agentic AI
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavrana09&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -78,7 +126,7 @@ An AI project focused on gathering and summarizing news using a multi-agent work
 
 ---
 
-### 🤝 Connect With Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavrana09/)
 
@@ -86,4 +134,8 @@ An AI project focused on gathering and summarizing news using a multi-agent work
 
 ---
 
-⭐ *Building, learning, and growing — one project at a time.*
+### 💡 My Goal
+
+To grow as a software engineer by combining full-stack development, artificial intelligence, and automation to build useful, scalable, and intelligent solutions.
+
+⭐ *Keep learning. Keep building. Keep growing.*
