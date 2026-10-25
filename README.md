@@ -1,3 +1,19 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+GenAI+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Building+Web+Apps+%26+AI+Solutions" alt="Animated typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshavrana09/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/keshavrana09">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
 # 👋 Hey, I'm Keshav Rana
 
 ### Data Annotator @ Qualitas Global | Full-Stack Developer | AI & GenAI Enthusiast
