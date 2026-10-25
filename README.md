@@ -1,17 +1,17 @@
-<p align="center">
+ <p align="center">
   <img src="github-banner.png" alt="Keshav Rana — Full-Stack Developer and AI & GenAI Enthusiast" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+GenAI+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Building+Web+Apps+%26+AI+Solutions" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+%26+GenAI+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Building+Web+Apps+%26+AI+Solutions" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keshavrana09/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/keshavrana09">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -23,14 +23,14 @@
 
 🎓 **B.Tech in Computer Science and Engineering** — Central University of Jammu
 
-💼 **Currently:** Data Annotator at Qualitas Global  
-📍 Pune, India
+💼 **Current Role:** Data Annotator at Qualitas Global  
+📍 **Location:** Pune, India
 
-I'm a Computer Science and Engineering student and technology enthusiast passionate about building scalable web applications, intelligent AI-powered solutions, and automated workflows.
+I'm a Computer Science and Engineering student passionate about building full-stack web applications, AI-powered solutions, and intelligent automation workflows.
 
-My experience spans full-stack web development, AI-powered automation, data annotation, and working with modern AI tools. Through my internships and projects, I've explored how software engineering and artificial intelligence can solve real-world problems.
+My interests span software engineering, Generative AI, Large Language Models (LLMs), Agentic AI, and workflow automation. Through internships and hands-on projects, I've explored how modern web technologies and AI tools can solve practical problems.
 
-I enjoy learning new technologies, building practical projects, and continuously improving my software development and AI engineering skills.
+I enjoy learning new technologies, building useful applications, and continuously improving my engineering skills.
 
 ---
 
@@ -40,56 +40,62 @@ I enjoy learning new technologies, building practical projects, and continuously
 
 *October 2026 – Present*
 
-- Working in the data annotation domain.
-- Developing familiarity with data labeling and annotation workflows.
-- Applying attention to detail and consistency to annotation tasks.
+- Working on data annotation tasks and workflows.
+- Focusing on accuracy, consistency, and attention to detail.
+- Building practical experience with data labeling processes.
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) in Computer Science and Engineering**
+**Bachelor of Technology (B.Tech) — Computer Science and Engineering**
 
 Central University of Jammu, India
 
-## 🚀 Internship Experience
+## 🧑‍💻 Internship Experience
 
-### IIT Jammu — Full-Stack Development & Artificial Intelligence
+**IIT Jammu — Full-Stack Development & Artificial Intelligence**
 
 - Explored full-stack web development and AI-powered applications.
-- Worked on projects involving OpenAI APIs, Python, and AI-assisted search.
-- Gained practical exposure to automation workflows and emerging AI technologies.
+- Worked on projects involving Python, OpenAI tools, and AI-assisted search.
+- Gained hands-on exposure to application development and automation workflows.
 
-### Edunet Foundation — Internship
+**Edunet Foundation — Internship**
 
-- Gained practical exposure through internship-based technical learning and project work.
+- Developed practical technical skills through internship activities and project-based learning.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS" />
+</p>
 
 ### Full-Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Artificial Intelligence & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express and MongoDB" />
+</p>
 
-**Areas of Interest:** Generative AI, Large Language Models (LLMs), Agentic AI, Prompt Engineering, API Integration, AI Agents, Workflow Automation, and Data Annotation.
+### AI, GenAI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/CrewAI-111827?style=for-the-badge&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+</p>
 
 ### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+</p>
+
+**Areas of Interest**
+
+`Generative AI` · `LLMs` · `Agentic AI` · `AI Agents` · `Prompt Engineering` · `API Integration` · `Workflow Automation` · `Data Annotation`
 
 ---
 
@@ -97,64 +103,93 @@ Central University of Jammu, India
 
 ### 1. Skill Sync — MERN Stack Learning Platform
 
-A full-stack learning platform that connects people who want to learn skills with people who can teach them.
+A full-stack skill-sharing platform that connects learners with people who can teach them.
 
-- User authentication and profiles.
-- Skill matching based on learning and teaching preferences.
-- Learning requests, communication, scheduling, and reviews.
-- Admin panel for user and platform management.
+- User registration, authentication, and profiles.
+- Matching users based on learning and teaching preferences.
+- Learning requests, session coordination, and reviews.
+- Admin functionality for managing users and monitoring the platform.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+**Technologies:** React.js · Node.js · Express.js · MongoDB
 
-### 2. Student Performance Monitor — n8n Automation
+[View Repository](https://github.com/keshavrana09/IIT-JAMMU-FINAL-PROJECT-SKILL-SYNC-)
 
-An automated workflow that processes student marks, classifies performance, generates reports, and sends notifications.
+### 2. Student Performance Monitor — Workflow Automation
 
-- Retrieves student data from Google Sheets.
-- Processes marks using predefined thresholds.
-- Generates CSV reports and supports Slack and email notifications.
+An n8n workflow designed to automate student performance analysis and reporting.
 
-**Tech Stack:** n8n, Google Sheets, Slack, Workflow Automation
+- Retrieves student records from Google Sheets.
+- Applies predefined marks thresholds.
+- Generates performance reports.
+- Supports Slack updates and email notifications.
+
+**Technologies:** n8n · Google Sheets · Slack · Workflow Automation
+
+[View Repository](https://github.com/keshavrana09/n8n-student-performance-monitor-)
 
 ### 3. Browser Search Bot — AI-Powered Search Assistant
 
-An interactive application that retrieves web search results and uses an AI model to summarize relevant information.
+A Python application that combines web search with AI-generated summaries.
 
-- Fetches search results through the Serper API.
-- Summarizes findings using the OpenAI SDK.
-- Provides an interactive interface with Gradio.
+- Retrieves search results through the Serper API.
+- Uses the OpenAI SDK to summarize information.
+- Provides an interactive interface through Gradio.
 
-**Tech Stack:** Python, Serper API, OpenAI SDK, Gradio
+**Technologies:** Python · Serper API · OpenAI SDK · Gradio
 
-### 4. Local AI Digest — Multi-Agent News System
+[View Repository](https://github.com/keshavrana09/OpenAi-SD-personal-research-assistant)
 
-An AI project focused on gathering and summarizing news using a multi-agent workflow.
+### 4. CrewAI Local News Digest — AI Agent Workflow
+
+An AI project exploring automated news research and summarization using CrewAI.
 
 - Explores task delegation between AI agents.
-- Uses CrewAI to coordinate an automated news-digest workflow.
+- Organizes news research and digest generation into a workflow.
 
-**Tech Stack:** Python, CrewAI, Agentic AI
+**Technologies:** Python · CrewAI · Agentic AI
+
+[View Repository](https://github.com/keshavrana09/Crewai-Local-news-digest-ai-agent)
+
+### 5. Fire Type Classification — Machine Learning
+
+A Jupyter Notebook project focused on fire-type classification using machine-learning techniques.
+
+**Technologies:** Python · Jupyter Notebook · Machine Learning
+
+[View Repository](https://github.com/keshavrana09/Classification_fire_type)
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavrana09&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavrana09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavrana09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="165" alt="Most-used programming languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavrana09&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=keshavrana09&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavrana09/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshavrana09)
+<p align="center">
+  <a href="https://www.linkedin.com/in/keshavrana09/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://github.com/keshavrana09">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
 
 ---
 
-### 💡 My Goal
+## 🎯 My Goal
 
 To grow as a software engineer by combining full-stack development, artificial intelligence, and automation to build useful, scalable, and intelligent solutions.
 
-⭐ *Keep learning. Keep building. Keep growing.*
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+</p>
