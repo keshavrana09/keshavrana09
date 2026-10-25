@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" alt="Keshav Rana — Full-Stack Developer and AI & GenAI Enthusiast" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+GenAI+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Building+Web+Apps+%26+AI+Solutions" alt="Animated typing introduction" />
